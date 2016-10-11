@@ -1,7 +1,7 @@
 # RCS_Poly
 
 
-Poly-Geekery Custom CSS for RCS
+Poly-Geekery Custom CSS for RCS on plug.dj
 
 @rcs=https://rawgit.com/WhitneyOnTheWeb/RCS_Custom/master/ccs.json //fix this
 @p3=https://rawgit.com/WhitneyOnTheWeb/RCS_Custom/master/ccs.json  //fix this
