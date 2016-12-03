@@ -1,18 +1,18 @@
 {
-    "room": "Chemical Cowboys",
+    "room": "Poly-Geekery",
     "author": "RAWRMedusa",
-    "css": "https://rawgit.com/WhitneyOnTheWeb/RCS_Custom/master/rcs.css",
+    "css": "https://rawgit.com/WhitneyOnTheWeb/RCS_Poly/master/rcs.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
-        "allowAutojoin": true,
-        "allowAutograb": true,
+        "allowAutojoin": false,
+        "allowAutograb": false,
         "allowSmartVote": true,
         "allowEmotes": true,
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
-    "ccc": {
+    "ccc": {  //Chat Color Codes
         "admin": null,
         "ambassador": null,
         "host": null,
@@ -24,7 +24,7 @@
         "friend": null,
         "user": null
     },
-    "images": {
+    "images": { //Image URLs
         "background": "http://whitneyontheweb.com/poly-geekery/PG_Background.png",
         "playback": null,
         "admin": null,
