@@ -520,7 +520,7 @@ body {
 #grab .icon-grab-disabled, #grab .icon {
     width: 28px;
     height: 28px;
-    padding-right: 3px;
+    padding-right: 5px;
     background: url("http://whitneyontheweb.com/poly-geekery/boobs.png") !important;
     background-color: transparent !important;
 }
