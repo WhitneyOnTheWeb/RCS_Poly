@@ -509,8 +509,8 @@ body {
 
 /* Custom Woot/Grab Icons */
 #woot .icon-woot-disabled, #woot .icon {
-    width: 28px;
-    height: 28px;
+    width: 30px;
+    height: 30px;
     padding-right: 3px;
     background: url("http://whitneyontheweb.com/ChemicalCowboys/metal.png") !important;
     background-color: transparent !important;
@@ -518,8 +518,8 @@ body {
 
 
 #grab .icon-grab-disabled, #grab .icon {
-    width: 28px;
-    height: 28px;
+    width: 30px;
+    height: 30px;
     padding-right: 3px;
     background: url("http://whitneyontheweb.com/poly-geekery/boobs.png") !important;
     background-color: transparent !important;
@@ -527,8 +527,8 @@ body {
 
 
 #meh .icon-meh-disabled, #meh .icon {
-    width: 28px;
-    height: 28px;
+    width: 30px;
+    height: 30px;
     padding-right: 3px;
     background: url("http://whitneyontheweb.com/ChemicalCowboys/poop.png");
     background-color: transparent !important;
