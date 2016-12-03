@@ -1,5 +1,5 @@
 {
-    "room": "Poly-Geekery",
+    "room": "PolyGeekery",
     "author": "RAWRMedusa",
     "css": "https://rawgit.com/WhitneyOnTheWeb/RCS_Poly/master/rcs.css",
     "rules": {
@@ -40,3 +40,4 @@
     	"custom_test": "http://whitneyontheweb.com/ChemicalCowboys/rainbow.gif",
     	"slot_seven": "http://whitneyontheweb.com/ChemicalCowboys/7.png"
     }
+}
