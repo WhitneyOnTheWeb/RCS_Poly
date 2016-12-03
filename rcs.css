@@ -1,5 +1,5 @@
 /*Room Name Settings -----------------------------------------------------------------------*/
-@import url(https://fonts.googleapis.com/css?family=Cagliostro|Sigmar+One|Quicksand:400,700|Didact+Gothic|Handlee|Molengo|Calligraffitti|Copse|Unkempt:400,700|Aclonica|Fredericka+the+Great|Coustard:400,900|Cabin+Sketch:400,700|Frijole|Rajdhani:400,500,700|Freckle+Face|Capriola|Chelsea+Market|Poller+One|Finger+Paint|The+Girl+Next+Door|Corben:400,700|Just+Me+Again+Down+Here|Skranji:400,700|Annie+Use+Your+Telescope|Mystery+Quest|Sue+Ellen+Francisco|Monoton|Happy+Monkey|Sunshiney|Averia+Sans+Libre:400,700|Trade+Winds|Patrick+Hand+SC|Codystar|Rye|Delius+Swash+Caps|Sancreek|Slabo+13px|Flamenco|Cherry+Swash|Londrina+Outline|Ribeye+Marrow|Miltonian+Tattoo|Snippet|Averia+Libre:400,700|Ribeye|Della+Respira|Autour+One|Sofadi+One|Ewert|NTR|Dekko);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC|Cabin|Indie+Flower|Montserrat|Pontano+Sans|Poppins|Raleway|Ubuntu);
 
 .icon-room {
     background-image: url("http://whitneyontheweb.com/poly-geekery/heartgif.gif");
@@ -16,17 +16,17 @@ body {
 }
 
 #woot-rs {
-    font-family: 'Averia Sans Libre', cursive !important;
+    font-family: 'Indie Flower', cursive !important;
     font-weight: 400;
 }
 
 #grab-rs {
-    font-family: 'Averia Sans Libre', cursive !important;
+    font-family: 'Indie Flower', cursive !important;
     font-weight: 400;
 }
 
 #meh-rs {
-    font-family: 'Averia Sans Libre', cursive !important;
+    font-family: 'Indie Flower', cursive !important;
     font-weight: 400;
 }
 
@@ -36,7 +36,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rye', cursive !important;
+    font-family: 'Ubuntu', sans-serif !important;
     font-weight: 400;
 }
 
@@ -46,7 +46,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rye', cursive !important;
+    font-family: 'Ubuntu', sans-serif !important;
     font-weight: 400;
 }
 
@@ -56,7 +56,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rye', cursive !important;
+    font-family: 'Ubuntu', sans-serif !important;
     font-weight: 400;
 }
 
@@ -66,7 +66,7 @@ body {
     -ms-animation: color_change_chem_1 100s infinite ease-in-out;
     -o-animation: color_change_chem_1 100s infinite ease-in-out;
     animation: color_change_chem_1 100s infinite ease-in-out;
-    font-family: 'Rye', cursive !important;
+    font-family: 'Ubuntu', sans-serif !important;
     font-weight: 400;
 }
 
