@@ -1,7 +1,7 @@
 {
     "room": "PolyGeekery",
     "author": "RAWRMedusa",
-    "css": "https://rawgit.com/WhitneyOnTheWeb/RCS_Poly/master/rcs.css",
+    "css": "https://cdn.rawgit.com/WhitneyOnTheWeb/RCS_Poly/master/rcs.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
