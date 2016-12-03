@@ -12,7 +12,7 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
-    "ccc": {  //Chat Color Codes
+    "ccc": {
         "admin": null,
         "ambassador": null,
         "host": null,
@@ -24,7 +24,7 @@
         "friend": null,
         "user": null
     },
-    "images": { //Image URLs
+    "images": {
         "background": "http://whitneyontheweb.com/poly-geekery/PG_Background.png",
         "playback": null,
         "admin": null,
